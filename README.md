@@ -63,6 +63,4 @@ ________________________________________________________________________________
 MIT License
 
 ---
-
-👉 **Demo:** [Add a link if you have one]  
-👉 **Author:** [Your Name] | [LinkedIn] | [Portfolio]
+👉 **Author:** Hemin | @Hemincodes | 
